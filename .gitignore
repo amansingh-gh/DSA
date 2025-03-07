@@ -22,6 +22,11 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+/.idea
+/out
+/.gitignore
+/DSA-LeetCode.iml
+
 ### VS Code ###
 .vscode/
 
