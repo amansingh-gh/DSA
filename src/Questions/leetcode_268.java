@@ -1,4 +1,6 @@
-class Solution {
+package Questions;
+
+class Solutions {
     public int missingNumber(int[] arr) {
         int i = 0;
         while( i< arr.length){
